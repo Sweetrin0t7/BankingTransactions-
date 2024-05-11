@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\clone bank\\BankingTransactions-\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Migrations\\20240511165645_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Migrations\\20240511165323_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Model\\ContaDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Model\\TranferenciaDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Model\\Transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Model\\TransacaoDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Data\\BancoDadosContexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Model\\Conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\BankCrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Model\\ContaCreateDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Controllers\\TransacaosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Controllers\\ContasController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240511165645_initial.cs",
+              "DocumentMoniker": "C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Migrations\\20240511165645_initial.cs",
+              "RelativeDocumentMoniker": "..\\..\\iShirtsAPI\\BankCrud\\BankCrud\\Migrations\\20240511165645_initial.cs",
+              "ToolTip": "C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Migrations\\20240511165645_initial.cs",
+              "RelativeToolTip": "..\\..\\iShirtsAPI\\BankCrud\\BankCrud\\Migrations\\20240511165645_initial.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T16:56:45.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240511165323_initial.cs",
+              "DocumentMoniker": "C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Migrations\\20240511165323_initial.cs",
+              "RelativeDocumentMoniker": "..\\..\\iShirtsAPI\\BankCrud\\BankCrud\\Migrations\\20240511165323_initial.cs",
+              "ToolTip": "C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Migrations\\20240511165323_initial.cs",
+              "RelativeToolTip": "..\\..\\iShirtsAPI\\BankCrud\\BankCrud\\Migrations\\20240511165323_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T16:53:23.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Model\\ContaDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\iShirtsAPI\\BankCrud\\BankCrud\\Model\\ContaDTO.cs",
+              "ToolTip": "C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Model\\ContaDTO.cs",
+              "RelativeToolTip": "..\\..\\iShirtsAPI\\BankCrud\\BankCrud\\Model\\ContaDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T20:56:16.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TranferenciaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Model\\TranferenciaDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\iShirtsAPI\\BankCrud\\BankCrud\\Model\\TranferenciaDTO.cs",
+              "ToolTip": "C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Model\\TranferenciaDTO.cs",
+              "RelativeToolTip": "..\\..\\iShirtsAPI\\BankCrud\\BankCrud\\Model\\TranferenciaDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T21:29:56.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Transacao.cs",
+              "DocumentMoniker": "C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Model\\Transacao.cs",
+              "RelativeDocumentMoniker": "..\\..\\iShirtsAPI\\BankCrud\\BankCrud\\Model\\Transacao.cs",
+              "ToolTip": "C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Model\\Transacao.cs",
+              "RelativeToolTip": "..\\..\\iShirtsAPI\\BankCrud\\BankCrud\\Model\\Transacao.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAkwBcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T20:13:57.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransacaoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Model\\TransacaoDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\iShirtsAPI\\BankCrud\\BankCrud\\Model\\TransacaoDTO.cs",
+              "ToolTip": "C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Model\\TransacaoDTO.cs",
+              "RelativeToolTip": "..\\..\\iShirtsAPI\\BankCrud\\BankCrud\\Model\\TransacaoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T21:07:07.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BancoDadosContexto.cs",
+              "DocumentMoniker": "C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Data\\BancoDadosContexto.cs",
+              "RelativeDocumentMoniker": "..\\..\\iShirtsAPI\\BankCrud\\BankCrud\\Data\\BancoDadosContexto.cs",
+              "ToolTip": "C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Data\\BancoDadosContexto.cs",
+              "RelativeToolTip": "..\\..\\iShirtsAPI\\BankCrud\\BankCrud\\Data\\BancoDadosContexto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T16:49:08.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Conta.cs",
+              "DocumentMoniker": "C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Model\\Conta.cs",
+              "RelativeDocumentMoniker": "..\\..\\iShirtsAPI\\BankCrud\\BankCrud\\Model\\Conta.cs",
+              "ToolTip": "C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Model\\Conta.cs",
+              "RelativeToolTip": "..\\..\\iShirtsAPI\\BankCrud\\BankCrud\\Model\\Conta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T20:12:59.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BankCrud.csproj",
+              "DocumentMoniker": "C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\BankCrud.csproj",
+              "RelativeDocumentMoniker": "..\\..\\iShirtsAPI\\BankCrud\\BankCrud\\BankCrud.csproj",
+              "ToolTip": "C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\BankCrud.csproj",
+              "RelativeToolTip": "..\\..\\iShirtsAPI\\BankCrud\\BankCrud\\BankCrud.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-02T18:17:03.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContaCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Model\\ContaCreateDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\iShirtsAPI\\BankCrud\\BankCrud\\Model\\ContaCreateDTO.cs",
+              "ToolTip": "C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Model\\ContaCreateDTO.cs",
+              "RelativeToolTip": "..\\..\\iShirtsAPI\\BankCrud\\BankCrud\\Model\\ContaCreateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T20:49:20.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TransacaosController.cs",
+              "DocumentMoniker": "C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Controllers\\TransacaosController.cs",
+              "RelativeDocumentMoniker": "..\\..\\iShirtsAPI\\BankCrud\\BankCrud\\Controllers\\TransacaosController.cs",
+              "ToolTip": "C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Controllers\\TransacaosController.cs",
+              "RelativeToolTip": "..\\..\\iShirtsAPI\\BankCrud\\BankCrud\\Controllers\\TransacaosController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAjwCgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T21:39:58.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\iShirtsAPI\\BankCrud\\BankCrud\\Program.cs",
+              "ToolTip": "C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Program.cs",
+              "RelativeToolTip": "..\\..\\iShirtsAPI\\BankCrud\\BankCrud\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAASwB8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T18:34:05.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ContasController.cs",
+              "DocumentMoniker": "C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Controllers\\ContasController.cs",
+              "RelativeDocumentMoniker": "..\\..\\iShirtsAPI\\BankCrud\\BankCrud\\Controllers\\ContasController.cs",
+              "ToolTip": "C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Controllers\\ContasController.cs",
+              "RelativeToolTip": "..\\..\\iShirtsAPI\\BankCrud\\BankCrud\\Controllers\\ContasController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAgwCsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T20:54:27.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\..\\iShirtsAPI\\BankCrud\\BankCrud\\appsettings.json",
+              "ToolTip": "C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\appsettings.json",
+              "RelativeToolTip": "..\\..\\iShirtsAPI\\BankCrud\\BankCrud\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-02T18:35:45.193Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
