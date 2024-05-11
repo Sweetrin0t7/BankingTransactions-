@@ -17,7 +17,7 @@ To run this project locally, follow the steps below:
 2. **Install dependencies:**
 dotnet restore
 
-Access the application at `http://localhost:5000` or `https://localhost:5001` in your web browser.
+Access the application at `http://localhost:7159` in your web browser.
 
 ## Functionality
 
