@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\clone bank\\BankingTransactions-\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E35A51B1-C40E-448D-8B22-358716D12E30}|BankCrud.csproj|c:\\users\\renat\\onedrive\\\u00E1rea de trabalho\\clone bank\\bankingtransactions-\\bankcrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E35A51B1-C40E-448D-8B22-358716D12E30}|BankCrud.csproj|solutionrelative:bankcrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Migrations\\20240511165645_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -57,6 +61,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BankCrud",
+              "DocumentMoniker": "C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\clone bank\\BankingTransactions-\\BankCrud.csproj",
+              "RelativeDocumentMoniker": "BankCrud.csproj",
+              "ToolTip": "C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\clone bank\\BankingTransactions-\\BankCrud.csproj",
+              "RelativeToolTip": "BankCrud.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-11T17:14:20.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "20240511165645_initial.cs",
               "DocumentMoniker": "C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Migrations\\20240511165645_initial.cs",
               "RelativeDocumentMoniker": "..\\..\\iShirtsAPI\\BankCrud\\BankCrud\\Migrations\\20240511165645_initial.cs",
@@ -69,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "20240511165323_initial.cs",
               "DocumentMoniker": "C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Migrations\\20240511165323_initial.cs",
               "RelativeDocumentMoniker": "..\\..\\iShirtsAPI\\BankCrud\\BankCrud\\Migrations\\20240511165323_initial.cs",
@@ -81,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ContaDTO.cs",
               "DocumentMoniker": "C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Model\\ContaDTO.cs",
               "RelativeDocumentMoniker": "..\\..\\iShirtsAPI\\BankCrud\\BankCrud\\Model\\ContaDTO.cs",
@@ -93,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "TranferenciaDTO.cs",
               "DocumentMoniker": "C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Model\\TranferenciaDTO.cs",
               "RelativeDocumentMoniker": "..\\..\\iShirtsAPI\\BankCrud\\BankCrud\\Model\\TranferenciaDTO.cs",
@@ -105,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Transacao.cs",
               "DocumentMoniker": "C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Model\\Transacao.cs",
               "RelativeDocumentMoniker": "..\\..\\iShirtsAPI\\BankCrud\\BankCrud\\Model\\Transacao.cs",
@@ -117,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "TransacaoDTO.cs",
               "DocumentMoniker": "C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Model\\TransacaoDTO.cs",
               "RelativeDocumentMoniker": "..\\..\\iShirtsAPI\\BankCrud\\BankCrud\\Model\\TransacaoDTO.cs",
@@ -129,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "BancoDadosContexto.cs",
               "DocumentMoniker": "C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Data\\BancoDadosContexto.cs",
               "RelativeDocumentMoniker": "..\\..\\iShirtsAPI\\BankCrud\\BankCrud\\Data\\BancoDadosContexto.cs",
@@ -141,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Conta.cs",
               "DocumentMoniker": "C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Model\\Conta.cs",
               "RelativeDocumentMoniker": "..\\..\\iShirtsAPI\\BankCrud\\BankCrud\\Model\\Conta.cs",
@@ -153,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "BankCrud.csproj",
               "DocumentMoniker": "C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\BankCrud.csproj",
               "RelativeDocumentMoniker": "..\\..\\iShirtsAPI\\BankCrud\\BankCrud\\BankCrud.csproj",
@@ -165,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ContaCreateDTO.cs",
               "DocumentMoniker": "C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Model\\ContaCreateDTO.cs",
               "RelativeDocumentMoniker": "..\\..\\iShirtsAPI\\BankCrud\\BankCrud\\Model\\ContaCreateDTO.cs",
@@ -177,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "TransacaosController.cs",
               "DocumentMoniker": "C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Controllers\\TransacaosController.cs",
               "RelativeDocumentMoniker": "..\\..\\iShirtsAPI\\BankCrud\\BankCrud\\Controllers\\TransacaosController.cs",
@@ -189,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\iShirtsAPI\\BankCrud\\BankCrud\\Program.cs",
@@ -201,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ContasController.cs",
               "DocumentMoniker": "C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\Controllers\\ContasController.cs",
               "RelativeDocumentMoniker": "..\\..\\iShirtsAPI\\BankCrud\\BankCrud\\Controllers\\ContasController.cs",
@@ -213,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\renat\\OneDrive\\\u00C1rea de Trabalho\\iShirtsAPI\\BankCrud\\BankCrud\\appsettings.json",
               "RelativeDocumentMoniker": "..\\..\\iShirtsAPI\\BankCrud\\BankCrud\\appsettings.json",

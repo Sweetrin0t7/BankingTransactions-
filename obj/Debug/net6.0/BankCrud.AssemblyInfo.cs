@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BankCrud")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a71a2d80b3161c85839f46f958909ca3980b029a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d40a40ec50eecaf3796a37152a8a939e7cf4ee1")]
 [assembly: System.Reflection.AssemblyProductAttribute("BankCrud")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BankCrud")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
